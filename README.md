@@ -1,12 +1,15 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+# 🧭 React Admin Dashboard App
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+A modern, customizable **Admin Dashboard** built with **React 17**, **Vite**, and **Tailwind CSS**, featuring **dark/light theming**, **responsive layout**, **interactive charts**, **data tables**, **Kanban board**, **calendar integration**, and more.
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+## 🚀 Features
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+- ✅ Light & Dark Theming with Persistence
+- 📊 Interactive Charts (Line, Bar, Pie, etc.)
+- 📅 Fully Functional Calendar
+- 📋 Kanban Board for Task Management
+- 🧮 Data Tables with Sorting & Pagination
+- 🧩 Modular Components with Tailwind CSS
+- 🧠 Reusable Layout & Sidebar System
+- 📱 Fully Responsive (Mobile-Friendly)
